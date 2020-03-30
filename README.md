@@ -14,6 +14,16 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 #### Increase Followers
 #### Download: Stories, Saved Content, Following/followers list, Profile Info
 #### Unfollow all your following
+
+## For installing required packages
+
+```
+apt install git
+apt install wget
+apt install openssl-tool
+apt install curl
+```
+##### for termux use pkg instead of apt
 ## Usage:
 ```
 git clone https://github.com/Gagan027/instatools
